@@ -1,3 +1,4 @@
 # Dog-Adventure
-Dog Adventure<br/>
+Dog Adventure
+
 Fun Game :)
